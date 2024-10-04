@@ -1,2 +1,2 @@
-# CRISPRi screen of galvanotaxis in HL-60 neutrophils and associated follow up characterization
-This repository contains data related to the efforts in the lab of Julie Theriot to identify new molecular players involved in galvanotaxis.
+# CRISPRi screen of galvanotaxis in HL-60 neutrophils and associated follow up characterization of Galvanin (i.e., TMEM154).
+This repository contains data related to https://doi.org/10.1101/2024.09.23.614580.
