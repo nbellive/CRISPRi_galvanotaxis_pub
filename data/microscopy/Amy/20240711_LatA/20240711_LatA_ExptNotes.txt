@@ -1,0 +1,69 @@
+File folder: 20240711_LatA
+
+Cell experiment
+Cell line: dHL60 dCas9 GalvWT SFFV-Galv-GFP, 4d DMSO-differentiated cells
+Passage number: P12
+Confluency when diluted:  125 e4 cells/ml
+Cell concentration: 0.8 e6 cells/ml
+Resuspension media: L-15 no phenol red, 26.6% FBS 1X ABAM
+
+Cell line: dHL60 dCas9 tmem154KO#1 -30GFP-Galvanin(xecto)-HA, 4d DMSO-differentiated cells
+Passage number: P
+Confluency when diluted:  118 e4 cells/ml
+Cell concentration: 0.8  e6 cells/ml
+Resuspension media: L-15 no phenol red, 26.6% FBS 1X ABAM
+
+Slide: Ibidi u-slide I, ibiTreat
+Coating: IbiTreat
+Plating:
+Prepared 2.5% agarose with L-15 10%FBS 1XABAM.
+Slipped a piece of fishing wire 0.23 mm in diameter into the channel and pushed against one edge of channel.
+Pre-warmed Ibidi slide on 37C heat block for 2 min.
+Flowed in 0.8 e6 cells into channel, let adhere on 37C heatblock for 5 min.
+Using 3cc syringe and 18GA sharp needle, flowed in 0.5 ml 2.5% agarose with 10% FBS and 1X ABAM.
+Put the slide in the pre-warmed 37C centrifuge with the well that I added the agarose to on the inner part of the swing, closest to rotor.
+Centrifuged 37C, 5min, 700xg (9 accel/9 decel).
+Immediately put on cool-stir, set to 20C, reading 18.5C for 5 min.
+Observed agarose in opposing well, cut out excess agarose from wells with 200ul pipet tip on pipet.
+Added 300 ul of L15 10% FBS, 1XABAM and added final concentration of 25uM Latrunculin A to each well.
+Imaged.
+
+Imaging conditions
+uManager version 2.0.1 20230712
+Config File: 20230402BelliveauConfig.cfg
+Temp: 37C, lowest fan setting
+
+Microscope settings
+[ ] Took micrometer image?
+[x] Kholer illumination?
+[ ] Background images?
+[ ] Fluorescence standard?
+
+Objective: 60X/ 1.40 NA (NA 0.51 of condenser)
+Oil: Immersol 418 37C
+Optivar: 1X
+Phase contrast, 100 ms (accidentally used wrong phase ring, Ph2 instead of Ph3)
+ex480 power 20, 100 ms (tmemKO -30Galv cells)
+ex480 power 10, 100 ms (GalvGFP cells)
+
+
+Multi-D acq settings
+Time points: every 10s
+[x] Autofocus PFS
+
+Electric field
+[x] measured voltage, Keithley 1.2mA is 15.4 v/5 cm either side of channel for -30GFP cells
+[x] measured voltage, Keithley 2.2mA is 25.4 v/5 cm either side of channel for -30GFP cells
+[ ] Live-recording voltage from power source
+
+[x] measured voltage, Keithley 1.4mA is 15.4 v/5 cm either side of channel for GalvGFP cells
+[x] measured voltage, Keithley 2.2mA is 25.2 v/5 cm either side of channel for GalvGFP cells
+
+Time off: 5min
+Time on: 10min 
+Time off: 10min
+
+
+Other notes:
+
+_GalvGFP_1.2_2 : new electrodes, tested voltage again

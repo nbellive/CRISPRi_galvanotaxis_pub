@@ -1,0 +1,21 @@
+LOCUS       tmem_Ops_#1_mutant_allel 347 bp ds-DNA     linear       31-MAR-2025
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     primer          1..23
+                     /label="TMEM154 genotyping F"
+                     /note="sequence: CCACAGGAGGAAAATGTTGTGGC"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     primer          complement(323..347)
+                     /label="TMEM154 genotyping R #2"
+                     /note="sequence: gtcaatctacgttcctactctcacc"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+ORIGIN
+        1 CCACAGGAGG AAAATGTTGT GGCAGCTTAA ATGTAATAAA AGCTTAATGT AAAATGTCAG
+       61 TAATGTAATT CACATTACTT CGAAAGTGAA ACTGAGTCAT TTAGACATAT AGTAGAATTC
+      121 TTCCTGTAAT CTATGTCATT ATTTTGTCTT TCAATTCTCA CTTTCAAATT TCTATTTTTA
+      181 GCTGCTTGGA AATCACCGTT GGTAAACTCC AACGGTGAGA TAACAGAGCT CCTCACCCTA
+      241 TCTATAAggg aaggaaacct aatttcgatg cttgtatcca aaatcttgtc cttttggtca
+      301 taacccaaag ctcattaaca taggtgagag taggaacgta gattgac
+//
